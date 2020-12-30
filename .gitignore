@@ -1,0 +1,9 @@
+*__pycache__*
+python/build
+python/dist
+python/venv
+python/static/react
+frontend/node_modules
+electron/node_modules
+electron/*.exe
+youtube.txt
